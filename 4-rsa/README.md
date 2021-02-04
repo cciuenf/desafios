@@ -1,7 +1,3 @@
-| User        | Solution           |
-| ------------- |:-------------:|
-| [souenzzo](https://github.com/souenzzo) | [Clojure](https://github.com/lambda-study-group/desafios/tree/master/4-rsa/souenzzo) |
-
 # RSA Challenge
 
 O objetivo desse desafio é fazer uma função que descriptografa uma mensagem utilizando a cryptografia RSA, que se baseia na fatoração de numeros primos.
@@ -20,8 +16,11 @@ Com o `d` calculado, e com o `n` da chave publica é possivel descritografar os 
 - **Input:** `v`(valor), `n`, e `e` são inteiros
 - **Output**: Char / String
 
+## Placar
 
-# Resumo de termos e relações
+| User        | Solution           |
+
+## Resumo de termos e relações
 
 - (`p`, `q`) - Numeros primos "qualquer"
 
@@ -61,7 +60,7 @@ A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | 
 
 
 
-Valores:
+### Valores:
 
 **Valor Cryptografado 1:** 15706 
 

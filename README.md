@@ -1,3 +1,10 @@
+# Desafios
+
+Este repositório existe para fomentar a prática de progrmação e
+a resolução de problemas!
+
+PRs abertas para adição de novos desafios!
+
 ## Exercicios 
 
 1. [Reverse Number](1-reverse-number/README.md)
